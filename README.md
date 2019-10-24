@@ -1,4 +1,10 @@
-# My-Project
+Author: John David Lin
 
-This project is a showcase of my previous works to demonstrate my knowledge and experience in computer science. 
-Languages include C, C++, and Java.
+getURL.sh: enter query after prompted; it exports a list of URL (url.txt) of that query
+
+getFile.sh: it uses url.txt to download data recursively; may generate log.txt
+
+rmBigFile.sh: enter a file size after prompted; it removes files larger than this size and saves a record in
+	      largeFile.txt
+
+
